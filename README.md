@@ -60,24 +60,6 @@ I build systems and tools powered by modern backend technologies.
 
 ---
 
-<div align="center">
-
-### 📈 GitHub Stats
-
-</div>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=RyansRepos&show_icons=true&theme=radical" 
-    width="400"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=RyansRepos&theme=radical&hide_border=true" 
-    width="400"
-  />
-</p>
-
----
 
 
 ### 🐍 GitHub Contribution Snake
